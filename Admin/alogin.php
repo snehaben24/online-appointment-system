@@ -6,7 +6,7 @@
 	<div class="header">
 				<ul>
 					<li style="float:left;border-right:none"><strong><font color=#C5CAE9> Admin Login</strong></li>
-					<li><a href="cover.php"><font color=#C5CAE9>Home</a></li>
+					<li><a href="../cover.php"><font color=#C5CAE9>Home</a></li>
 				</ul>
 	</div>
 	<div class="sucontainer" style="background-color:#C5CAE9">
