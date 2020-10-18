@@ -38,7 +38,7 @@ function getDoctorday(val) {
 <body style="background-image:url(img/pic.jpeg)">
 	<div class="header">
 		<ul>
-			<li style="float:left;border-right:none"><a class="logo"><img src="img/cal.png" width="30px" height="30px"><strong> MedHelp </strong>Appointment Booking System</a></li>
+			<li style="float:left;border-right:none"><a class="logo"><img src="img/logo.png" width="30px" height="30px"><strong> MedHelp </strong>Appointment Booking System</a></li>
 			<li><a href="cover.php">Home</a></li>
 		</ul>
 	</div>
