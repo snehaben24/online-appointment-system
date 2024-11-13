@@ -1,6 +1,5 @@
 # Online Appointment System
 
-![Owner](path_to_owner_avatar_image_here)
 
 ## Description
 This Online Appointment System is designed to streamline the process of scheduling and managing appointments for various services. Built using PHP, CSS, and Hack, it integrates interactive features like AJAX for real-time location updates, ensuring a smooth user experience.
